@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen</h1>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media0.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=ecf05e47oqp5vm9nvckk7uqy55p5xd5nbmgooaqrm5pe7dgg&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="100%" style="position:absolute" class="giphy-embed"></div>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
 - 📫 How to reach me **aymen.laroussi@live.fr**
